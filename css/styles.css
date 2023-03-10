@@ -234,7 +234,6 @@ img {
     opacity: 0;
     pointer-events: none;
     visibility: hidden;
-    visibility: hidden;
 }
 
 .backdrop {
@@ -248,7 +247,6 @@ img {
     height: 100%;
     opacity: 1;
     transition: opacity var(--duration) var(--timing-function), visibility var(--duration) var(--timing-function);
-    transition: opacity var(--duration) var(--timing-function);
 }
 
 .backdrop.is-hidden .modal {
@@ -266,7 +264,6 @@ img {
     border-radius: 4px;
     transform: translate(-50%, -50%) scale(1);
     transition: transform var(--duration) var(--timing-function);
-
 }
 
 .modal-close-button {
