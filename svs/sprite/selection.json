@@ -1,0 +1,100 @@
+{
+  "IcoMoonType": "selection",
+  "icons": [
+    {
+      "icon": {
+        "paths": [
+          "M1025.589 103.328l-103.328-103.328-409.466 409.466-409.466-409.466-103.328 103.328 409.466 409.466-409.466 409.466 103.328 103.328 409.466-409.466 409.466 409.466 103.328-103.328-409.466-409.466 409.466-409.466z"
+        ],
+        "attrs": [
+          {}
+        ],
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "close"
+        ]
+      },
+      "attrs": [
+        {}
+      ],
+      "properties": {
+        "order": 38,
+        "id": 1,
+        "name": "close",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 5,
+      "iconIdx": 0
+    },
+    {
+      "icon": {
+        "paths": [
+          "M1081.671 33.175c21.098-20.401 49.877-32.973 81.593-32.973 64.25 0 116.45 51.596 117.425 115.614l0.001 0.092c0.025 0.904 0.039 1.968 0.039 3.035 0 30.895-11.789 59.037-31.113 80.173l0.082-0.091-626.77 788.137c-21.591 23.305-52.357 37.845-86.52 37.845-15.848 0-30.964-3.129-44.766-8.802l0.784 0.285c-15.269-6.315-28.297-15.152-39.182-26.119l-0.007-0.007-415.712-417.889c-23.185-21.681-37.635-52.455-37.635-86.605 0-16.054 3.193-31.362 8.98-45.324l-0.288 0.786c18.057-43.781 60.404-74.035 109.817-74.035 0.564 0 1.126 0.004 1.688 0.012l-0.085-0.001c33.227 0.62 62.987 14.961 83.944 37.576l0.069 0.076 329.009 330.674 545.574-699.001c1.039-1.251 2.085-2.379 3.19-3.446l-0.116-0.012z"
+        ],
+        "attrs": [
+          {
+            "fill": "rgb(244, 244, 253)"
+          }
+        ],
+        "width": 1280,
+        "isMulticolor": false,
+        "isMulticolor2": false,
+        "grid": 0,
+        "tags": [
+          "submit"
+        ]
+      },
+      "attrs": [
+        {
+          "fill": "rgb(244, 244, 253)"
+        }
+      ],
+      "properties": {
+        "order": 37,
+        "id": 0,
+        "name": "submit",
+        "prevSize": 32
+      },
+      "setIdx": 0,
+      "setId": 5,
+      "iconIdx": 1
+    }
+  ],
+  "height": 1024,
+  "preferences": {
+    "showGlyphs": true,
+    "showQuickUse": true,
+    "showQuickUse2": true,
+    "showSVGs": true,
+    "fontPref": {
+      "prefix": "icon-",
+      "metadata": {
+        "fontFamily": "icomoon"
+      },
+      "metrics": {
+        "emSize": 1024,
+        "baseline": 6.25,
+        "whitespace": 50
+      },
+      "embed": false
+    },
+    "imagePref": {
+      "prefix": "",
+      "png": false,
+      "useClassSelector": true,
+      "color": 0,
+      "bgColor": 16777215,
+      "classSelector": ".icon",
+      "name": "sprite",
+      "height": 32,
+      "columns": 16,
+      "margin": 16
+    },
+    "historySize": 50,
+    "showCodes": true,
+    "gridSize": 16
+  }
+}
