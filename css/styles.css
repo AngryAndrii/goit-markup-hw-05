@@ -234,6 +234,7 @@ img {
     opacity: 0;
     pointer-events: none;
     visibility: hidden;
+    visibility: hidden;
 }
 
 .backdrop {
@@ -247,6 +248,7 @@ img {
     height: 100%;
     opacity: 1;
     transition: opacity var(--duration) var(--timing-function), visibility var(--duration) var(--timing-function);
+    transition: opacity var(--duration) var(--timing-function);
 }
 
 .backdrop.is-hidden .modal {
